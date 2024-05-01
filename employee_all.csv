@@ -1,0 +1,4 @@
+id,type,user,salary
+1,warehouse_owner,test-updated,10000.0
+3,warehouse_owner,Delivery_boy_1,10001.0
+4,product_maker,product_maker_1,12000.0
